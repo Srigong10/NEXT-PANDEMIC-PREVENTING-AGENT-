@@ -30,4 +30,4 @@ The following are the key features this system includes,
 **6. Observability:** Through LoggingPlugin integration, every agent invocation, tool call, and LLM exchange is recorded. This enables deep visibility into decision paths, supports debugging, and provides accountability across complex multi-agent interactions.
 
 ### *Acknowledgement*
-My sincere thanks to the **Kaggle × Google for the 5-Days Agents Intensive Course**. I have applied the course learnings to develop this system to address the real-world challenge in monitoring and responding to emerging infectious diseases and demonstrating a responsible approach to mitigate infectious disease outbreaks.
+My sincere thanks to the **Kaggle × Google for the 5-Day Agents Intensive Course**. I have applied the course learnings to develop this system to address the real-world challenge in monitoring and responding to emerging infectious diseases and demonstrating a responsible approach to mitigate infectious disease outbreaks.

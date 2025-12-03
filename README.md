@@ -5,7 +5,11 @@
 https://colab.research.google.com/github/Srigong10/Multi-Agent-Bio-Surveillance-System/blob/main/Multi_Agent_Bio_Surveillance_System.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="930" height="510" alt="Picture" src="https://github.com/user-attachments/assets/f8d436e3-6b5f-4b78-805f-c16759869837" />
+## Demo Video
+
+Watch the demo of the Multi-Agent Bio-Surveillance System in action on the GoogleADK Web UI.
+The main demo starts at 1:50, where the agent begins answering the user's queries related to news and research on disease outbreaks.
+[![Watch the Demo](https://img.youtube.com/vi/VooSqpvJVOs/hqdefault.jpg)](https://www.youtube.com/watch?v=VooSqpvJVOs&t=110s)
 
 ## PROJECT OVERVIEW: 
 This is a multi-agent bio-surveillance system powered by Gemini containing sequential workflow with custom tools to scan real-time news and research publications, and to extract the critical information of the emerging pathogens.

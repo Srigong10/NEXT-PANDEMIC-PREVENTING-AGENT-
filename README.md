@@ -1,5 +1,9 @@
 # Multi-Agent Bio-Surveillance System
 *Gemini-driven multi-agent system that monitors global health signals and scientific insights to detect outbreaks and flag emerging threats.*
+### Run the Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Srigong10/Multi-Agent-Bio-Surveillance-System/blob/main/Multi_Agent_Bio_Surveillance_System.ipynb)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="930" height="510" alt="Picture" src="https://github.com/user-attachments/assets/f8d436e3-6b5f-4b78-805f-c16759869837" />
 
@@ -29,11 +33,12 @@ The following are the key features this system includes,
 
 **6. Observability:** Through LoggingPlugin integration, every agent invocation, tool call, and LLM exchange is recorded. This enables deep visibility into decision paths, supports debugging, and provides accountability across complex multi-agent interactions.
 
-## INSTRUCTIONS FOR SETUP: 
-✅ Jupyter Notebook  
+## How to Use: 
+To run the Jupyter Notebook without installing anything locally, open it directly in Google Colab:
 
-This repository includes a complete demonstration notebook: 📘 *Multi_Agent_Bio_Surveillance_System.ipynb*,
-The Python code was executed on Google Colab (Python 3 under default conditions) and on Kaggle to support the ADK Web UI.
+🔗 **Google Colab Link:**  
+https://colab.research.google.com/github/Srigong10/Multi-Agent-Bio-Surveillance-System/blob/main/Multi_Agent_Bio_Surveillance_System.ipynb
+
 
 ### *Acknowledgement*
 My sincere thanks to Kaggle × Google for the 5-Day Agents Intensive Course. The knowledge gained enabled me to develop this system to help monitor emerging infectious diseases and support responsible outbreak mitigation.
